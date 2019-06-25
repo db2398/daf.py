@@ -1,7 +1,7 @@
-n=int(input())
-if n>0:
+secure=int(input())
+if secure>0:
     print("Positive")
-elif n<0:
+elif secure<0:
     print("Negative")
 else:
     print("Zero")
